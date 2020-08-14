@@ -48,4 +48,6 @@
 ## 英语（未开始）
 ## 政治（未开始）
 # Thinking
+## 随想
 [1.探寻痛苦本质](https://github.com/RaguelFoReveR/running-studying-thinking/issues/1)
+
