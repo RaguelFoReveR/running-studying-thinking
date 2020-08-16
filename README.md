@@ -19,19 +19,19 @@
 - #### 四十公里（21计划）
 # Studying
 ## 高数
-      - 第一章 函数与极限（完成度：60%）
-        -[第一节 映射与函数](https://github.com/RaguelFoReveR/running-studying-thinking/issues/2)
-      - 第二章
-      - 第三章
-      - 第四章
-      - 第五章
-      - 第六章
-      - 第七章
-      - 第八章
-      - 第九章
-      - 第十章
-      - 第十一章
-      - 第十二章
+  - 第一章 函数与极限（完成度：60%）<br/>
+    -[第一节 映射与函数](https://github.com/RaguelFoReveR/running-studying-thinking/issues/2)
+  - 第二章
+  - 第三章
+  - 第四章
+  - 第五章
+  - 第六章
+  - 第七章
+  - 第八章
+  - 第九章
+  - 第十章
+  - 第十一章
+  - 第十二章
       
       
 ## 线代（未开始）
