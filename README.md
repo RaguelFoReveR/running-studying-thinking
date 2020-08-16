@@ -18,7 +18,7 @@
 # Studying
 ## 高数
   - 第一章 函数与极限（完成度：60%）<br/>
-    -[第一节 映射与函数](https://github.com/RaguelFoReveR/running-studying-thinking/issues/2)
+    -[第一节 映射与函数](https://github.com/RaguelFoReveR/running-studying-thinking/issues/2)<br/>
     -[第二、三节 数列及函数极限]()
   - 第二章
   - 第三章
